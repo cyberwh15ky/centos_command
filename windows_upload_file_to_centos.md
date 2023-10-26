@@ -7,4 +7,4 @@ Command:
 Install file:
 > sudo rpm -ivh QualysCloudAgent.rpm
 
-> sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId="ActivationId" CustomerId="CustomerId" ServerUri=
+> sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId="ActivationId" CustomerId="CustomerId" ServerUri=https://<server or IP>/CloudAgent/
