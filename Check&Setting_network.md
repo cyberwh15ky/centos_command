@@ -6,8 +6,6 @@ If your notebook use wifi to conntect network, your vm can't to automatic to con
 
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/7b805126-2826-4067-b62a-d7c53f67e6e0)
 
-![Uploading image.png…]
-
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/52252bdd-b5cf-49f6-95df-156ec01b73e0)
 
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/473ea435-cb24-41d6-bb68-db9cf3dbaf9c)
@@ -17,4 +15,10 @@ If your notebook use wifi to conntect network, your vm can't to automatic to con
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/9ddfa6ba-285d-4c0d-bcfd-82d78871dd82)
 
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/2c60cad8-5909-4b58-a5f6-144a32e745ff)
+
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/4623c422-e26e-40cd-b506-40cd842f206e)
+
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/1b39918b-81e9-4776-b1b2-b3bf215a535f)
+
+
 
