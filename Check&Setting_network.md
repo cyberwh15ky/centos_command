@@ -1,0 +1,9 @@
+nmclid d
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/2a4db1ee-f678-4644-915c-c4f9e1b2c5e6)
+
+If your notebook use wifi to conntect network, your vm can't to automatic to conntec the wifi. so you can follow this image to set up.
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/473ea435-cb24-41d6-bb68-db9cf3dbaf9c)
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/c8b794ff-becf-4cec-a18b-253e7b283893)
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/9ddfa6ba-285d-4c0d-bcfd-82d78871dd82)
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/2c60cad8-5909-4b58-a5f6-144a32e745ff)
+
