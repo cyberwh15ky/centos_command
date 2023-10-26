@@ -4,8 +4,6 @@ nmclid d
 
 If your notebook use wifi to conntect network, your vm can't to automatic to conntec the wifi. so you can follow this image to set up. or https://phoenixnap.com/kb/configure-centos-network-settings
 
-![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/7b805126-2826-4067-b62a-d7c53f67e6e0)
-
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/52252bdd-b5cf-49f6-95df-156ec01b73e0)
 
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/473ea435-cb24-41d6-bb68-db9cf3dbaf9c)
