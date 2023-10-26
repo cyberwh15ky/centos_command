@@ -1,3 +1,5 @@
 FYI "https://monovm.com/blog/how-to-transfer-files-from-windows-to-linux-server/"
+
 Command:
+
 > SCP filename.extension username@serveraddress:filepath
