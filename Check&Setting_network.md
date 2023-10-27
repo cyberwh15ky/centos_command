@@ -18,5 +18,5 @@ If your notebook use wifi to conntect network, your vm can't to automatic to con
 
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/1b39918b-81e9-4776-b1b2-b3bf215a535f)
 
-
+FYI. https://zhuanlan.zhihu.com/p/63315852
 
