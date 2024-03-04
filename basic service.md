@@ -1,4 +1,4 @@
-SH：
+SSH：
 
 View status:
 - sudo systemctl status ssh
