@@ -1,5 +1,18 @@
-SSH：
+How to Linux service status:
+!!! FYI
+[+]: running
+[-]: not running
+[?]: status option not implemented
 
+- service --status-all
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/9e7613e3-5564-4541-b473-1e2f79ec4e0c)
+- sudo service --status-all | grep "service name"
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/55485252-dfa9-4f6e-8129-7d4a6b2e6f3c)
+- sudo service "service name" status
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/0cc7c913-2909-4f99-9ae9-e518676ada0f)
+
+
+How to install or check SSH：
 View status:
 - sudo systemctl status ssh
 ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/6a358593-3412-4e08-bfbb-211596e9f713)
