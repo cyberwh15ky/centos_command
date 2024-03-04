@@ -1,3 +1,8 @@
+How to find the file:
+- which "file name"
+![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/2a75b69a-a756-4963-bdc7-35fcbcd39941)
+
+
 How to Linux service status:
 !!! FYI
 [+]: running
