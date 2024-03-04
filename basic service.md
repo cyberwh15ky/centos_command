@@ -23,8 +23,8 @@ Installing ssh in Ubuntu for server：
 - sudo apt install openssh-server
 - sudo systemctl enable ssh
 - sudo ufw allow ssh
-/![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/2d6ce420-b8aa-4aeb-beeb-dd1a6c50532d)
-/![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/a1a088f3-b226-4cab-9235-6adc7b4c5453)
+/n ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/2d6ce420-b8aa-4aeb-beeb-dd1a6c50532d)
+/n ![image](https://github.com/cyberwh15ky/centos_command/assets/142871997/a1a088f3-b226-4cab-9235-6adc7b4c5453)
 
 
 Installing ssh in Ubuntu for client：
